@@ -1,5 +1,0 @@
-Corrija o link, pois tentei acessar e deu acesso negado. Clique em "Mudar para qualquer pessoa".
-
-corrija apenas o link. Faça do jeito que ensinei na aula 2 (Como compartilhar um documento), pelo próprio Google Docs e não pelo Drive.
-
-Assista aula em que eu ensino a baixar um documento em diferentes formatos. Depois de baixado você procura no classroom a atividade "Google Docs - Atividade 1", clica em "Ver atividade", vai no botão branco com um  "+ Criar ou Adicionar" e vai em "Arquivo", "Browse", procura no computador e enviar o arquivo em .docx(Word), depois é clicar no botão azul "Devolver".
